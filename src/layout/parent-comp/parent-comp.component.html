@@ -1,0 +1,5 @@
+<h1>parent-comp works!</h1>
+<app-child-comp [item]= "data" (updatedList) = "updatedUsers($event);"></app-child-comp>
+<button (click)="update_child()" > update child component </button>
+<h3>Data Received from child</h3>
+{{ user | json}}

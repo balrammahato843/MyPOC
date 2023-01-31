@@ -1,0 +1,16 @@
+$colorsList: (red, black,green, yellow,violet,silver,gold,orange, pink, blue);
+
+@each $color in $colorsList {
+  .text-#{$color} {
+    color: #{$color};
+  }
+
+  .bg-#{$color} {
+    background-color: $color;
+  }
+  .omkar-#{$color}{
+    background-color: $color;
+    // color: $color;
+  }
+  
+}

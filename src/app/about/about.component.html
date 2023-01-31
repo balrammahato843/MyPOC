@@ -1,0 +1,11 @@
+<p>about works!</p>
+<div class="page-area">
+  <input type="text" placeholder="input" #val>
+  <button class="btn btn-primary" (click)="submitval(val)">Submit</button>
+  <h1>About us</h1>
+
+  <app-comp1 *ngIf="come1Exist" [myvalue]="value">myvalues:{{value}}</app-comp1>
+
+  <br>
+  <button class="btn btn-danger" (click)="Distroy()">OnDistroy</button>
+</div>

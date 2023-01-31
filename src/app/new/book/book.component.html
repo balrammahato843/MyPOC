@@ -1,0 +1,17 @@
+<p>book works!</p>
+<div class="page-area">
+  <h1>Lifecycle hooks</h1>
+
+  <label>Name:</label>
+  <input type="text" placeholder="Enter name" #val>
+
+  <button class="btn btn-primary" (click)="submit(val)">submit</button>
+
+
+
+  <app-note-book *ngIf="notebookexist" [myvalue]="value"> ngContent   :{{value}}</app-note-book>
+
+  <br>
+  <br>
+
+  <button class="distroy()" class="btn btn-danger" (click)="distroy()">Destroy</button>

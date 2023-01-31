@@ -1,0 +1,138 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "balram",
+      "email": "balram@crossasyst.com",
+      "phone": "7276699038",
+      "description": "s",
+      "endTime": "13:23",
+      "age": "23",
+      "startTime": "12:12",
+      "id": 2
+    },
+    {
+      "username": "eiwuhvuiwe",
+      "email": "uchhue@crossasyst.com",
+      "phone": "382653289",
+      "description": "ewuwcgcbn",
+      "endTime": "23:23",
+      "age": "34",
+      "startTime": "12:30",
+      "id": 3
+    },
+    {
+      "username": "hitesh",
+      "email": "chaudhary@crossasyst.com",
+      "phone": "8365737373",
+      "description": "echjwvbwkej",
+      "endTime": "18:30",
+      "age": "24",
+      "startTime": "23:00",
+      "id": 4
+    },
+    {
+      "username": "rahul",
+      "email": "rahl@crossasyst.com",
+      "phone": "3864839",
+      "description": "jegcviwjklmc;lewlcvhewjlkw",
+      "endTime": "18:30",
+      "age": "22",
+      "startTime": "12:12",
+      "id": 5
+    },
+    {
+      "username": "uttam",
+      "email": "uttam@crossasyst.com",
+      "phone": "598467945",
+      "description": "wxqcqcqwc",
+      "endTime": "12:00",
+      "age": "32",
+      "startTime": "23:00",
+      "id": 6
+    },
+    {
+      "username": "balram",
+      "email": "balrammahato973@crossasyst.com",
+      "phone": "7276363578",
+      "description": "echjwvcbcwemcwemckwemclkwmlckmwlckmwlkcmwlcmlwke",
+      "endTime": "13:00",
+      "age": "19",
+      "startTime": "12:00",
+      "id": 7
+    },
+    {
+      "firstname": "Omkar",
+      "lastname": null,
+      "email": null,
+      "gender": null,
+      "age": null,
+      "specialization": null,
+      "id": 8
+    },
+    {
+      "firstname": "Omkar",
+      "lastname": "ssdsc",
+      "email": "omkar@gmail.com",
+      "gender": "2",
+      "age": "23",
+      "specialization": null,
+      "id": 9
+    },
+    {
+      "firstname": "w",
+      "lastname": "w",
+      "email": "scs",
+      "gender": "male",
+      "age": "w",
+      "specialization": null,
+      "id": 10
+    },
+    {
+      "firstname": "iuo",
+      "lastname": "iwi",
+      "email": "omkarw@g,a",
+      "gender": "male",
+      "age": "65",
+      "specialization": "dermatologist",
+      "id": 11
+    },
+    {
+      "firstname": "iuo",
+      "lastname": "iwi",
+      "email": "omkarw@g,a",
+      "gender": "male",
+      "age": "65",
+      "specialization": "dermatologist",
+      "id": 12
+    },
+    {
+      "firstname": "iuo",
+      "lastname": "iwi",
+      "email": "omkarw@g,akjslkjdlsjlasd",
+      "gender": "male",
+      "age": "65",
+      "specialization": "dermatologist",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "firstname": "121",
+    "lastname": "qqw",
+    "email": "omkmds",
+    "gender": "male",
+    "age": "21",
+    "specialization": "dermatologist"
+  }
+}
